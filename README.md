@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-[![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanW18)](https://github.com/anuraghazra/github-readme-stats)
+[![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TristanW18&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TristanW18&layout=compact](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://twitter.com/tristanwow18">
   <img align="right" alt="Tristan | Twitter" width="21px" src="https://raw.githubusercontent.com/TristanW18/TristanW18/main/twitter.svg" />
